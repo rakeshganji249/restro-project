@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "60d1",
+      "name": "rakesh",
+      "email": "r@g.co",
+      "password": "123456"
+    },
+    {
+      "id": "1a3b",
+      "name": "rr",
+      "email": "rr",
+      "password": "rr"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "d96e",
+      "name": "rrr",
+      "cuisine": "Mexican",
+      "location": "rrr"
+    },
+    {
+      "id": "4fe8",
+      "name": "eee",
+      "cuisine": "Italian",
+      "location": "eeee"
+    },
+    {
+      "id": "1b92",
+      "name": "wwww",
+      "cuisine": "Italian",
+      "location": "eeeee"
+    }
+  ]
+}
